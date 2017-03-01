@@ -1,0 +1,11 @@
+{
+  "name": "hit_the_deck",
+  "version": "1.0.0",
+  "description": "Push-Up Exercise Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Van Delinder",
+  "license": "ISC"
+}
